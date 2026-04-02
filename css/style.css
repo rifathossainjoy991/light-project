@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Frijole&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    outline: 0;
+}
+img{
+    width: 100%;
+    max-width: 100%;
+}
+ul,ol{
+    list-style: none;
+}
+a{
+    display: inline-block;
+    text-decoration: none;
+}
+.container{
+    width: 1200px;
+    margin: auto;
+}
+.row{
+    display: flex;
+}
+/* common css end */
+
+
+/* manu part start */
+#nav .row{
+    align-items: center;
+}
+#nav{
+    padding: 25px 0;
+}
+#nav .logo_col{
+    width: 30% ;
+}
+#nav .logo_col .logo{
+    width: 82px ;
+}
+#nav .menu_col{
+    width: 70%;
+}
+#nav .menu_col ul{
+    display: flex;
+    gap: 30px;
+    justify-content: end;
+}
+#nav .menu_col ul li a{
+    font-size: 12px;
+    font-weight: 400;
+    color: #232332;
+    font-family: "Open Sans", sans-serif;
+    text-transform: uppercase;
+
+
+
+}
+
+
+
+
+
+
+/* manu part end */
+
+/* manu part start */
+/* manu part end */
+
+/* manu part start */
+/* manu part end */
+
+/* manu part start */
+/* manu part end */
+
+/* manu part start */
+/* manu part end */
+
+/* manu part start */
+/* manu part end */
